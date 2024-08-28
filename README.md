@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @SammyTourani
+- 👀 I’m interested in Computers & Software
+- 🌱 I’m currently learning Software & Management Engineering @ McMaster
+- 💞️ I’m looking to collaborate on software development projects that leverage cutting-edge technologies, ex: AI
+- 📫 How to reach me: sammytourani@gmail.com
+- 😄 Pronouns: He/Him
