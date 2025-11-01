@@ -1,16 +1,17 @@
 <div align="center">
 
 <!-- ANIMATED TYPING HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Sammy+Tourani+%F0%9F%91%8B;Building+the+Future+of+Neural+Interfaces+%F0%9F%A7%A0;PM+on+Canada's+%243B+Cernavoda+Project+%E2%9A%9B%EF%B8%8F;Full-Stack+Dev+%2B+ML+Engineer+%F0%9F%A4%96;Microsoft+%26+Claude+Ambassador+%F0%9F%9A%80;Let's+Build+for+People+%F0%9F%92%9C" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Sammy+Tourani+%F0%9F%91%8B;Full-Stack+Dev+%2B+ML+Engineer+%F0%9F%A4%96;Building+the+Future+of+Neural+Interfaces+%F0%9F%A7%A0;PM+on+Canada's+%243B+Cernavoda+Project+%E2%9A%9B%EF%B8%8F;Microsoft+%26+Claude+Ambassador+%F0%9F%9A%80;Let's+Build+for+People+%F0%9F%92%9C" alt="Typing SVG" />
 
 <!-- EPIC GRADIENT BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,27&height=180&section=header&text=Software%20Engineer%20%7C%20BCI%20Pioneer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Turning%20AI%20into%20tools%20that%20change%20lives&descSize=18&descAlignY=51" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,27&height=180&section=header&text=Software%20Engineer%20%7C%20AI/ML%20Architect&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Turning%20AI%20into%20tools%20that%20change%20lives&descSize=18&descAlignY=51" />
 
 <!-- SOCIAL BADGES -->
 <p align="center">
   <a href="https://linkedin.com/in/sammy-tourani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:sammytourani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://bit.ly/sammytourani"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://devpost.com/SammyTourani"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost"/></a>
   <a href="https://github.com/SammyTourani"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
@@ -49,7 +50,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SammyTourani&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-frame=true" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SammyTourani&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
