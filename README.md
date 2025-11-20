@@ -50,9 +50,11 @@
 
 <div align="center">
 
-<!-- Use a simpler trophy URL to avoid layout params that sometimes cause "Error fetching information" -->
+<!-- Use a repo-hosted fallback image for reliability. Commented dynamic trophy kept for future use. -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=SammyTourani&theme=discord&no-frame=true" alt="GitHub Trophies"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=SammyTourani&theme=discord&no-frame=true" alt="GitHub Trophies"/> -->
+
+<img src="https://raw.githubusercontent.com/SammyTourani/SammyTourani/main/assets/trophies-fallback.svg" alt="GitHub Trophies (fallback)"/>
 
 </div>
 
@@ -62,10 +64,7 @@
 
 <div align="center">
 
-![Azure DevOps](https://img.shields.io/badge/AZ--400-Azure_DevOps-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Security Copilot](https://img.shields.io/badge/SC--200-Security_Copilot-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![M365 Fundamentals](https://img.shields.io/badge/MS--900-M365_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-365&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Azure-Kubernetes_Ops-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/AZ--400-Azure_DevOps-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Security Copilot](https://img.shields.io/badge/SC--200-Security_Copilot-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![M365 Fundamentals](https://img.shields.io/badge/MS--900-M365_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-365&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Azure-Kubernetes_Ops-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
 
@@ -76,45 +75,22 @@
 <div align="center">
 
 **🔥 Core Languages**  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)  
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
 
 **🌟 Specialized Skills**  
-![EEG Processing](https://img.shields.io/badge/EEG_Signal_Processing-8B5CF6?style=for-the-badge&logo=brain&logoColor=white)  
-![BCI](https://img.shields.io/badge/Brain_Computer_Interface-A855F7?style=for-the-badge&logo=neuroscience&logoColor=white)  
-![Computer Vision](https://img.shields.io/badge/YOLOv8_Computer_Vision-00FFFF?style=for-the-badge&logo=opencv&logoColor=black)  
-![Neural Networks](https://img.shields.io/badge/Neural_Interface_Dev-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Accessibility Tech](https://img.shields.io/badge/Accessibility_Engineering-4CAF50?style=for-the-badge&logo=accessibility&logoColor=white)  
+<img src="https://img.shields.io/badge/EEG_Signal_Processing-8B5CF6?style=for-the-badge&logo=brain&logoColor=white" alt="EEG" /> <img src="https://img.shields.io/badge/Brain_Computer_Interface-A855F7?style=for-the-badge&logo=neuroscience&logoColor=white" alt="BCI" /> <img src="https://img.shields.io/badge/YOLOv8_Computer_Vision-00FFFF?style=for-the-badge&logo=opencv&logoColor=black" alt="YOLOv8" /> <img src="https://img.shields.io/badge/Neural_Interface_Dev-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" alt="NN" /> <img src="https://img.shields.io/badge/Accessibility_Engineering-4CAF50?style=for-the-badge&logo=accessibility&logoColor=white" alt="Accessibility" />
 
 **🛠️ Frameworks & Tools**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
 
 **🤖 AI/ML & Data Science**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
 
 **☁️ Cloud & DevOps**  
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" /> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="K8s" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
 **🗄️ Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 
 </div>
 
