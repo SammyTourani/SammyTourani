@@ -50,11 +50,9 @@
 
 <div align="center">
 
-<!-- Use a repo-hosted fallback image for reliability. Commented dynamic trophy kept for future use. -->
+**Repository:** [SammyTourani/SammyTourani](https://github.com/SammyTourani/SammyTourani)
 
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=SammyTourani&theme=discord&no-frame=true" alt="GitHub Trophies"/> -->
-
-<img src="https://raw.githubusercontent.com/SammyTourani/SammyTourani/main/assets/trophies-fallback.svg" alt="GitHub Trophies (fallback)"/>
+![GitHub followers](https://img.shields.io/github/followers/SammyTourani?style=social) ![GitHub stars](https://img.shields.io/github/stars/SammyTourani?style=social)
 
 </div>
 
@@ -100,27 +98,20 @@
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SammyTourani&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF"/>
+![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-View_Profile-0D1117?style=for-the-badge&logo=github&logoColor=white) 
 
-<!-- Top Languages Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SammyTourani&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF"/>
+**Public Repos:** ![Repos Badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/SammyTourani&query=public_repos&label=Repos&color=blue&style=flat-square)  
+**Followers:** ![Followers Badge](https://img.shields.io/github/followers/SammyTourani?label=Followers&style=flat-square&color=blue)  
+**Total Stars:** ![Stars Badge](https://img.shields.io/github/stars/SammyTourani?label=Stars&style=flat-square&color=gold)
 
 </div>
 
-<!-- GitHub Streak Stats -->
+<!-- GitHub Streak Stats (Only reliable service) -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SammyTourani&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak"/>
 </div>
 
-
-### 📈 Activity Overview
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SammyTourani&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF)
-
-</div>
+> **View full activity at:** [github.com/SammyTourani](https://github.com/SammyTourani)
 
 ---
 
