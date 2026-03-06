@@ -60,11 +60,11 @@
 
 ---
 
-## 📜 Certifications
+## 🏅 Achievements & Recognition
 
 <div align="center">
 
-![Azure DevOps](https://img.shields.io/badge/AZ--400-Azure_DevOps-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Security Copilot](https://img.shields.io/badge/SC--200-Security_Copilot-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![M365 Fundamentals](https://img.shields.io/badge/MS--900-M365_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-365&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Azure-Kubernetes_Ops-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Guinness World Record](https://img.shields.io/badge/🏆-Guinness_World_Record-FFD700?style=for-the-badge) ![Dean's List 2024](https://img.shields.io/badge/📜-Dean's_List_2024-8B5CF6?style=for-the-badge) ![Microsoft Ambassador](https://img.shields.io/badge/🚀-Microsoft_Learn_Ambassador-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Claude Ambassador](https://img.shields.io/badge/🤖-Claude_Ambassador-000000?style=for-the-badge) ![AWS Educate](https://img.shields.io/badge/☁️-AWS_Educate_Ambassador-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
