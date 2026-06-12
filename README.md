@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ANIMATED TYPING HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Sammy+Tourani+%F0%9F%91%8B;Full-Stack+Dev+%2B+ML+Engineer+%F0%9F%A4%96;Building+the+Future+of+Neural+Interfaces+%F0%9F%A7%A0;PM+on+Canada's+%243B+Cernavoda+Project+%E2%9A%9B%EF%B8%8F;Microsoft+%26+Claude+Ambassador+%F0%9F%9A%80;Let's+Build+for+People+%F0%9F%92%9C" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Sammy+Tourani+%F0%9F%91%8B;Full-Stack+%2B+ML+Engineer+%F0%9F%A4%96;Building+brain-computer+interfaces+%F0%9F%A7%A0;Engineering+for+accessibility+%F0%9F%91%81%EF%B8%8F;Let's+build+for+people+%F0%9F%92%9C" alt="Typing SVG" />
 
 <!-- EPIC GRADIENT BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,27&height=180&section=header&text=Software%20Engineer%20%7C%20AI/ML%20Architect&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Turning%20AI%20into%20tools%20that%20change%20lives&descSize=18&descAlignY=51" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,27&height=180&section=header&text=Software%20Engineer%20%7C%20AI%2FML%20%2B%20Accessibility&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Turning%20AI%20into%20tools%20that%20change%20lives&descSize=18&descAlignY=51" />
 
 <!-- SOCIAL BADGES -->
 <p align="center">
@@ -33,12 +33,12 @@
 
 > **"My motivation is people. It always has been, and always will be."**
 
-**Software Engineering @ McMaster University** | Building AI-powered accessibility tech that changes lives.
+**Software Engineering @ McMaster University** | Building AI-powered accessibility tech.
 
 ### 🎯 Quick Overview
 
 - 🧠 **Building:** [Seenapse](https://github.com/Nearhos/seenapse) (Brain-Computer Interface) + [Spectra](https://github.com/SammyTourani/Spectra) ($5K funded accessibility app)
-- ⚛️ **Former PM:** Canada's **$3B Cernavoda Nuclear Expansion** @ AtkinsRéalis
+- ⚛️ **PM experience:** Cernavoda Nuclear Refurbishment @ AtkinsRéalis
 - 🎓 **Dean's List 2024** | GPA: 4.1/4.3 | McMaster University
 - 🌟 **Ambassador:** Microsoft Learn · Claude (Boardy Fellow) · AWS Educate
 - 🏆 **Guinness World Record** holder · Spoke at conferences in Vancouver, SF, Dubai
@@ -104,11 +104,6 @@
 **Followers:** ![Followers Badge](https://img.shields.io/github/followers/SammyTourani?label=Followers&style=flat-square&color=blue)  
 **Total Stars:** ![Stars Badge](https://img.shields.io/github/stars/SammyTourani?label=Stars&style=flat-square&color=gold)
 
-</div>
-
-<!-- GitHub Streak Stats (Only reliable service) -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SammyTourani&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak"/>
 </div>
 
 > **View full activity at:** [github.com/SammyTourani](https://github.com/SammyTourani)
@@ -205,7 +200,7 @@ Open to interesting conversations about Summer 2026 internships, accessibility t
   <a href="mailto:sammytourani@gmail.com">
     <img src="https://img.shields.io/badge/Email-sammytourani%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/sammy-tourani">
+  <a href="https://www.linkedin.com/in/sammy-tourani-273b852b1">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://bit.ly/sammytourani">
