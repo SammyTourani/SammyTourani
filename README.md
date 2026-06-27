@@ -10,10 +10,10 @@ I care about the work landing in someone's hands — not the demo, the deployed 
 
 ## Now
 
-- Building **Seenapse**, a brain–computer interface that turns EEG signals into intent —
-  control wearables, capture photos, and trigger alerts without a screen or voice.
-- Building **Spectra**, a real-time computer-vision iOS app that narrates the physical
-  world for blind and low-vision users.
+- Building **Argus**, a prompt-to-app builder that turns a description into a deployed
+  full-stack app — live at [buildargus.dev](https://buildargus.dev).
+- Working across applied ML and accessibility — computer-vision assistive tools and
+  LLM-powered systems.
 - Open to **Summer 2026 software engineering internships** across ML, applied research,
   backend, and computer vision.
 
@@ -21,22 +21,15 @@ I care about the work landing in someone's hands — not the demo, the deployed 
 
 ## Selected work
 
-**Seenapse — brain–computer interface**
-Neural interface replacing screen and voice input with decoded EEG signals. Built at
-Hack the North 2024, where the team set a Guinness World Record and pitched to Y Combinator,
-Shopify, and Coinbase. Python · Neurosity SDK · FastAPI · MongoDB.
-[Repository](https://github.com/Nearhos/seenapse) · [Writeup](https://devpost.com/software/seenapse)
+**[Argus](https://github.com/SammyTourani/Argus)** — prompt-to-app builder. Describe an app and it generates, previews, and deploys a full-stack one; multi-LLM generation with provider fallback, sandboxed live preview, auth, and billing. Live at [buildargus.dev](https://buildargus.dev). *Next.js · TypeScript · Supabase · Vercel AI SDK.*
 
-**Spectra — computer vision for the blind**
-On-device object detection and spatial text-to-speech for visually impaired users, running
-in real time on iOS. Funded with $5,000 from THE FORGE; demoed at conferences in Vancouver,
-San Francisco, and Dubai. Swift · CoreML · YOLOv8 · MediaPipe.
-[Repository](https://github.com/SammyTourani/Spectra)
+**[Spectra](https://github.com/SammyTourani/Spectra)** — computer vision for the blind. Point an iPhone and it reads text aloud, describes scenes, and guides your hand to objects by fusing detection, depth, and hand tracking in real time. Funded with $5,000 from THE FORGE; demoed in Vancouver, SF, and Dubai. *Swift · YOLOv8 · Depth-Anything-V2 · MediaPipe · GPT-4o.*
 
-**NoteSphere — collaborative writing**
-A writing environment combining a rich-text editor with grammar analysis and real-time
-collaboration. React · TypeScript · Firebase · TipTap.
-[Repository](https://github.com/SammyTourani/NoteSphere)
+**[Seenapse](https://github.com/Nearhos/seenapse)** — brain–computer interface. Replaces screen and voice input with decoded EEG signals. Built at Hack the North 2024, where the team set a Guinness World Record and pitched to Y Combinator, Shopify, and Coinbase. *Python · Neurosity SDK · FastAPI · MongoDB.* [Writeup](https://devpost.com/software/seenapse)
+
+**[helix-health](https://github.com/SammyTourani/helix-health)** — patient-owned health record. Unifies conditions, meds, and providers, then generates specialty-specific pre-appointment briefs and shares them over revocable expiring links. *Next.js · Supabase (row-level security) · Llama 3.3 70B.*
+
+**[deepseek-r1-api](https://github.com/SammyTourani/deepseek-r1-api)** — self-scaling LLM inference. Reference architecture serving DeepSeek R1 on H100s behind an API gateway, with a CloudWatch-driven autoscaler that adds and removes GPU nodes on demand. *Python · vLLM · AWS CDK.*
 
 ---
 
@@ -52,8 +45,9 @@ collaboration. React · TypeScript · Firebase · TipTap.
 
 ## Tools I reach for
 
-Python, Swift, TypeScript, C++ · PyTorch, NumPy, scikit-learn · EEG/BCI signal processing,
-on-device computer vision · React, FastAPI · PostgreSQL, MongoDB · AWS, Docker
+Python, TypeScript, Swift · PyTorch, multi-model computer vision (YOLO, depth, hand tracking),
+LLM application & inference (vLLM, multi-provider orchestration) · Next.js, React, FastAPI ·
+Supabase, PostgreSQL, MongoDB · AWS, Docker
 
 ---
 
