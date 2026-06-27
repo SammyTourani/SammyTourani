@@ -1,225 +1,62 @@
-<div align="center">
+# Sammy Tourani
 
-<!-- ANIMATED TYPING HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Sammy+Tourani+%F0%9F%91%8B;Full-Stack+%2B+ML+Engineer+%F0%9F%A4%96;Building+brain-computer+interfaces+%F0%9F%A7%A0;Engineering+for+accessibility+%F0%9F%91%81%EF%B8%8F;Let's+build+for+people+%F0%9F%92%9C" alt="Typing SVG" />
+Software engineer working at the intersection of machine learning and accessibility.
+Currently studying Software Engineering at McMaster University. Most interested in building
+systems that put capable models in front of the people who benefit from them most.
 
-<!-- EPIC GRADIENT BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,27&height=180&section=header&text=Software%20Engineer%20%7C%20AI%2FML%20%2B%20Accessibility&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Turning%20AI%20into%20tools%20that%20change%20lives&descSize=18&descAlignY=51" />
-
-<!-- SOCIAL BADGES -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/sammy-tourani-273b852b1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:sammytourani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://bit.ly/sammytourani"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://devpost.com/SammyTourani"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost"/></a>
-  <a href="https://github.com/SammyTourani"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
-<!-- VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=SammyTourani&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-
-<!-- CONTRIBUTION SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SammyTourani/SammyTourani/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SammyTourani/SammyTourani/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SammyTourani/SammyTourani/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
+I care about the work landing in someone's hands — not the demo, the deployed thing.
 
 ---
 
-## 🚀 About Me
+## Now
 
-> **"My motivation is people. It always has been, and always will be."**
-
-**Software Engineering @ McMaster University** | Building AI-powered accessibility tech.
-
-### 🎯 Quick Overview
-
-- 🧠 **Building:** [Seenapse](https://github.com/Nearhos/seenapse) (Brain-Computer Interface) + [Spectra](https://github.com/SammyTourani/Spectra) ($5K funded accessibility app)
-- ⚛️ **PM experience:** Cernavoda Nuclear Refurbishment @ AtkinsRéalis
-- 🎓 **Dean's List 2024** | GPA: 4.1/4.3 | McMaster University
-- 🌟 **Ambassador:** Microsoft Learn · Claude (Boardy Fellow) · AWS Educate
-- 🏆 **Guinness World Record** holder · Spoke at conferences in Vancouver, SF, Dubai
-- 🔍 **Seeking:** **Summer 2026 SWE Internships** (AI/ML, iOS, Backend, Computer Vision)
+- Building **Seenapse**, a brain–computer interface that turns EEG signals into intent —
+  control wearables, capture photos, and trigger alerts without a screen or voice.
+- Building **Spectra**, a real-time computer-vision iOS app that narrates the physical
+  world for blind and low-vision users.
+- Open to **Summer 2026 software engineering internships** across ML, applied research,
+  backend, and computer vision.
 
 ---
 
-## 🏆 GitHub Achievements
+## Selected work
 
-<div align="center">
+**Seenapse — brain–computer interface**
+Neural interface replacing screen and voice input with decoded EEG signals. Built at
+Hack the North 2024, where the team set a Guinness World Record and pitched to Y Combinator,
+Shopify, and Coinbase. Python · Neurosity SDK · FastAPI · MongoDB.
+[Repository](https://github.com/Nearhos/seenapse) · [Writeup](https://devpost.com/software/seenapse)
 
-**Repository:** [SammyTourani/SammyTourani](https://github.com/SammyTourani/SammyTourani)
+**Spectra — computer vision for the blind**
+On-device object detection and spatial text-to-speech for visually impaired users, running
+in real time on iOS. Funded with $5,000 from THE FORGE; demoed at conferences in Vancouver,
+San Francisco, and Dubai. Swift · CoreML · YOLOv8 · MediaPipe.
+[Repository](https://github.com/SammyTourani/Spectra)
 
-![GitHub followers](https://img.shields.io/github/followers/SammyTourani?style=social) ![GitHub stars](https://img.shields.io/github/stars/SammyTourani?style=social)
-
-</div>
-
----
-
-## 🏅 Achievements & Recognition
-
-<div align="center">
-
-![Guinness World Record](https://img.shields.io/badge/🏆-Guinness_World_Record-FFD700?style=for-the-badge) ![Dean's List 2024](https://img.shields.io/badge/📜-Dean's_List_2024-8B5CF6?style=for-the-badge) ![Microsoft Ambassador](https://img.shields.io/badge/🚀-Microsoft_Learn_Ambassador-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Claude Ambassador](https://img.shields.io/badge/🤖-Claude_Ambassador-000000?style=for-the-badge) ![AWS Educate](https://img.shields.io/badge/☁️-AWS_Educate_Ambassador-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</div>
-
----
-
-## 💻 Tech Stack & Skills
-
-<div align="center">
-
-**🔥 Core Languages**  
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-
-**🌟 Specialized Skills**  
-<img src="https://img.shields.io/badge/EEG_Signal_Processing-8B5CF6?style=for-the-badge&logo=brain&logoColor=white" alt="EEG" /> <img src="https://img.shields.io/badge/Brain_Computer_Interface-A855F7?style=for-the-badge&logo=neuroscience&logoColor=white" alt="BCI" /> <img src="https://img.shields.io/badge/YOLOv8_Computer_Vision-00FFFF?style=for-the-badge&logo=opencv&logoColor=black" alt="YOLOv8" /> <img src="https://img.shields.io/badge/Neural_Interface_Dev-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" alt="NN" /> <img src="https://img.shields.io/badge/Accessibility_Engineering-4CAF50?style=for-the-badge&logo=accessibility&logoColor=white" alt="Accessibility" />
-
-**🛠️ Frameworks & Tools**  
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-
-**🤖 AI/ML & Data Science**  
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-
-**☁️ Cloud & DevOps**  
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" /> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="K8s" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-
-**🗄️ Databases**  
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-
-</div>
+**NoteSphere — collaborative writing**
+A writing environment combining a rich-text editor with grammar analysis and real-time
+collaboration. React · TypeScript · Firebase · TipTap.
+[Repository](https://github.com/SammyTourani/NoteSphere)
 
 ---
 
-## 📊 GitHub Statistics
+## Background
 
-<div align="center">
-
-![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-View_Profile-0D1117?style=for-the-badge&logo=github&logoColor=white) 
-
-**Public Repos:** ![Repos Badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/SammyTourani&query=public_repos&label=Repos&color=blue&style=flat-square)  
-**Followers:** ![Followers Badge](https://img.shields.io/github/followers/SammyTourani?label=Followers&style=flat-square&color=blue)  
-**Total Stars:** ![Stars Badge](https://img.shields.io/github/stars/SammyTourani?label=Stars&style=flat-square&color=gold)
-
-</div>
-
-> **View full activity at:** [github.com/SammyTourani](https://github.com/SammyTourani)
+- Dean's List, 2024 — McMaster University (GPA 4.1 / 4.3)
+- Guinness World Record holder
+- Project management on the Cernavodă nuclear refurbishment at AtkinsRéalis
+- Student ambassador: Microsoft Learn, Claude (Boardy Fellow), AWS Educate
+- Spoken at technical conferences in Vancouver, San Francisco, and Dubai
 
 ---
 
-## 🌟 Featured Projects
+## Tools I reach for
 
-### 🧠 [Seenapse](https://github.com/Nearhos/seenapse) - Brain-Computer Interface
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Neurosity](https://img.shields.io/badge/Neurosity_SDK-8B5CF6?style=flat-square&logo=brain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Cohere](https://img.shields.io/badge/Cohere_API-000000?style=flat-square&logo=ai&logoColor=white)
-
-</div>
-
-Neural interface that replaces screens/voice with EEG signals. Control smart glasses, snap photos, send SOS alerts using only your thoughts. **Built at Hack the North 2024** where we broke a Guinness World Record and pitched to YC, Shopify, Coinbase.
-
-[🔗 GitHub](https://github.com/Nearhos/seenapse) | [📱 DevPost](https://devpost.com/software/seenapse)
+Python, Swift, TypeScript, C++ · PyTorch, NumPy, scikit-learn · EEG/BCI signal processing,
+on-device computer vision · React, FastAPI · PostgreSQL, MongoDB · AWS, Docker
 
 ---
 
-### 👁️ [Spectra](https://github.com/SammyTourani/Spectra) - AI Accessibility for the Blind
+## Contact
 
-<div align="center">
-
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white)
-![CoreML](https://img.shields.io/badge/CoreML-000000?style=flat-square&logo=apple&logoColor=white)
-
-</div>
-
-Real-time object detection + text-to-speech iOS app for the visually impaired. **Funded with $5,000 from THE FORGE.** Demoed at conferences in Vancouver, SF, and Dubai.
-
-[🔗 GitHub](https://github.com/SammyTourani/Spectra)
-
----
-
-### 📝 [NoteSphere](https://github.com/SammyTourani/NoteSphere) - Smart Note-Taking
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![TipTap](https://img.shields.io/badge/TipTap-000000?style=flat-square&logo=tiptap&logoColor=white)
-
-</div>
-
-Grammarly meets Notion. Advanced grammar checking, real-time collaboration, rich text editor with Firebase sync.
-
-[🔗 GitHub](https://github.com/SammyTourani/NoteSphere)
-
----
-
-## 🎯 What I'm Looking For
-
-### 🌟 Summer 2026 SWE Internships
-
-**Focus Areas:** AI/ML Engineering · iOS Development · Backend Engineering · Computer Vision
-
-**What I Bring:** Product-minded engineering · Full-stack + ML expertise · Cross-functional experience (PM + Engineering) · Passion for accessibility tech
-
-**Dream Companies:** FAANG, unicorn startups, mission-driven companies building accessibility, AI, or infrastructure tech.
-
----
-
-## 🎨 Fun Facts
-
-```javascript
-const sammy = {
-  funFact: "Broke a Guinness World Record and pitched to YC all in one weekend 🎉",
-  motto: "Let's build for people.",
-  currentlyLearning: ["Neural signal processing", "Kubernetes", "iOS optimization"],
-  hobbies: ["🏆 Hackathons", "🎤 Public speaking", "🧪 BCI experiments"]
-};
-```
-
----
-
-## 📬 Let's Connect!
-
-<div align="center">
-
-Open to interesting conversations about Summer 2026 internships, accessibility tech, BCI, and AI—**let's talk!**
-
-<p align="center">
-  <a href="mailto:sammytourani@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sammytourani%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sammy-tourani-273b852b1">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://bit.ly/sammytourani">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
-### 💜 Let's build for people.
-
-</div>
-
----
-
-<div align="center">
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,27&height=120&section=footer&animation=twinkling" />
-
-<!-- LAST UPDATED -->
-<sub>Last updated: Automatically via GitHub Actions | Made with 💜 by Sammy Tourani</sub>
-
-</div>
+[Email](mailto:sammytourani@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sammy-tourani-273b852b1) · [Portfolio](https://bit.ly/sammytourani) · [GitHub](https://github.com/SammyTourani)
