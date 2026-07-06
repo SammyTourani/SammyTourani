@@ -1,56 +1,101 @@
 # Sammy Tourani
 
-Software engineer working at the intersection of machine learning and accessibility.
-Currently studying Software Engineering at McMaster University. Most interested in building
-systems that put capable models in front of the people who benefit from them most.
+Software engineering student at McMaster building **AI infrastructure**, **developer tooling**, **eval systems**, and **RAG platforms**.
 
-I care about the work landing in someone's hands — not the demo, the deployed thing.
+I care about the layer that makes AI systems actually useful: correctness, tool-use, permissions, latency, cost, and production reliability.
 
----
-
-## Now
-
-- Building **Argus**, a prompt-to-app builder that turns a description into a deployed
-  full-stack app — live at [buildargus.dev](https://buildargus.dev).
-- Working across applied ML and accessibility — computer-vision assistive tools and
-  LLM-powered systems.
-- Open to **Summer 2026 software engineering internships** across ML, applied research,
-  backend, and computer vision.
+[Email](mailto:sammytourani@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sammy-tourani) · [GitHub](https://github.com/SammyTourani)
 
 ---
 
-## Selected work
+## Current focus
 
-**[Argus](https://github.com/SammyTourani/Argus)** — prompt-to-app builder. Describe an app and it generates, previews, and deploys a full-stack one; multi-LLM generation with provider fallback, sandboxed live preview, auth, and billing. Live at [buildargus.dev](https://buildargus.dev). *Next.js · TypeScript · Supabase · Vercel AI SDK.*
+- **Agent evals:** adversarial correctness, reward-hack detection, withheld tests, metamorphic properties, differential checks.
+- **Tool-use infrastructure:** dependency graphs, preconditions, multi-step workflows, MCP-style orchestration.
+- **Production AI systems:** RAG, permissions, observability, latency, cost, and reliability.
+- **Developer tooling:** systems that help engineers ship faster without giving up correctness.
 
-**[Spectra](https://github.com/SammyTourani/Spectra)** — computer vision for the blind. Point an iPhone and it reads text aloud, describes scenes, and guides your hand to objects by fusing detection, depth, and hand tracking in real time. Funded with $5,000 from THE FORGE; demoed in Vancouver, SF, and Dubai. *Swift · YOLOv8 · Depth-Anything-V2 · MediaPipe · GPT-4o.*
+---
 
-**[Seenapse](https://github.com/Nearhos/seenapse)** — brain–computer interface. Replaces screen and voice input with decoded EEG signals. Built at Hack the North 2024, where the team set a Guinness World Record and pitched to Y Combinator, Shopify, and Coinbase. *Python · Neurosity SDK · FastAPI · MongoDB.* [Writeup](https://devpost.com/software/seenapse)
+## Best proof-of-work
 
-**[helix-health](https://github.com/SammyTourani/helix-health)** — patient-owned health record. Unifies conditions, meds, and providers, then generates specialty-specific pre-appointment briefs and shares them over revocable expiring links. *Next.js · Supabase (row-level security) · Llama 3.3 70B.*
+### [Tripwire](https://github.com/SammyTourani/tripwire) — eval infrastructure for reward-hacked AI code optimization
 
-**[deepseek-r1-api](https://github.com/SammyTourani/deepseek-r1-api)** — self-scaling LLM inference. Reference architecture serving DeepSeek R1 on H100s behind an API gateway, with a CloudWatch-driven autoscaler that adds and removes GPU nodes on demand. *Python · vLLM · AWS CDK.*
+A layered correctness oracle for AI optimization loops. Tripwire rejects candidates that pass visible tests but fail on withheld adversarial inputs before any speedup earns reward.
+
+- Published as a PyPI CLI: [`tripwire-oracle`](https://pypi.org/project/tripwire-oracle/)
+- Drop-in OpenEvolve evaluator
+- Four-layer verifier: canonical checks, metamorphic properties, withheld-input differential testing, isolated timing
+- Benchmark: ships **0 of 13 planted reward hacks** while preserving **100% of valid speedups**
+- Live visualizer replays a Claude-proposed optimization that reached a verified **200x speedup**
+
+**Why it matters:** frontier agents increasingly write and optimize code. Tripwire is the guardrail that tells the loop whether a speedup is real or a reward hack.
+
+---
+
+### [Plexus](https://github.com/SammyTourani/plexus) — dependency layer for agentic tool pipelines
+
+A tool-planning graph that tells agents which tools must run before others. Semantic tool retrieval finds *which* tools are relevant; Plexus adds the missing execution-order layer.
+
+- Analyzed **1,296 real Composio tools** across Google Workspace and GitHub
+- Derived **520 producer-to-consumer dependency edges**
+- Classifies required inputs as `tool`, `user`, or `tool_or_user`
+- Combines schema/description parsing, targeted rules, slug heuristics, and LLM semantic matching
+- Ships with golden-set validation and a live graph explorer
+
+**Why it matters:** agents fail when they call tools with missing IDs, thread handles, file handles, or artifact IDs. Plexus makes those preconditions explicit before execution.
+
+---
+
+### Enterprise RAG / AI retrieval systems
+
+Built internal retrieval tooling for regulated engineering documents.
+
+- Indexed large confidential engineering corpora for permissioned semantic search
+- Built ingestion across parsing, metadata extraction, chunking, embeddings, and retrieval
+- Worked with role-based access control so users could only query authorized documents
+- Integrated AI-assisted lookup and triage workflows for engineering research
+
+---
+
+### LLM systems optimization
+
+Built infrastructure for reducing repeated LLM calls and improving response latency.
+
+- Hybrid semantic cache with Redis, PostgreSQL, and pgvector
+- Reduced repeated LLM-call token costs by **75%**
+- Cut cache-hit latency from **1.4s to <150ms**
+- Supported high-throughput API workloads with Dockerized FastAPI services
+
+---
+
+## Stack
+
+**Languages:** Python, TypeScript, JavaScript, Ruby, SQL, Bash, Swift  
+**AI / agents:** Claude Code, MCP, RAG, evals, agent orchestration, PyTorch, OpenCV  
+**Infra:** Kubernetes, Docker, Terraform, AWS, Azure, CI/CD, Redis, PostgreSQL, pgvector  
+**Focus:** eval infrastructure, tool-use planning, RAG systems, developer tooling, production reliability
 
 ---
 
 ## Background
 
-- Dean's List, 2024 — McMaster University (GPA 4.1 / 4.3)
-- Guinness World Record holder
-- Project management on the Cernavodă nuclear refurbishment at AtkinsRéalis
-- Student ambassador: Microsoft Learn, Claude (Boardy Fellow), AWS Educate
-- Spoken at technical conferences in Vancouver, San Francisco, and Dubai
+- B.Eng. Software Engineering, McMaster University, expected Apr 2028
+- GPA: 11.8 / 12.0; Dean's Honour List
+- Loran Scholar Finalist
+- Y Combinator AI Startup School, selected attendee, 2025 and 2026
+- Certified Kubernetes Administrator
 
 ---
 
-## Tools I reach for
+## Notes for recruiters / builders
 
-Python, TypeScript, Swift · PyTorch, multi-model computer vision (YOLO, depth, hand tracking),
-LLM application & inference (vLLM, multi-provider orchestration) · Next.js, React, FastAPI ·
-Supabase, PostgreSQL, MongoDB · AWS, Docker
+The strongest fit is work on:
 
----
+- eval systems
+- AI developer tools
+- RAG / knowledge infrastructure
+- agent tooling
+- platform engineering for AI products
 
-## Contact
-
-[Email](mailto:sammytourani@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sammy-tourani-273b852b1) · [Portfolio](https://bit.ly/sammytourani) · [GitHub](https://github.com/SammyTourani)
+If your team is turning AI systems from demos into reliable products, I want to talk.
